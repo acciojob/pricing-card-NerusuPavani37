@@ -1,1 +1,23 @@
 /*  your css code here. If applicable */
+body{
+	padding :0;
+	margin : 0;	
+}
+
+div {
+		background-color :rgb(220, 220, 220);
+		padding : 20px;
+		margin : 50px 250px;
+		border : none;
+		border-radius : 10px;
+		box-shadow : -1px -1px 5px  grey;
+		text-align : center;
+		padding : 60px 60px;
+}
+	button {
+		border-radius : 10px;
+		padding : 10px 10px;
+		background-color : red;
+		border : none;
+		color : white;
+	}
